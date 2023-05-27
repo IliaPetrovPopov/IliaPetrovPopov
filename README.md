@@ -1,7 +1,7 @@
 # Hi there, I am Ilia Popov 👋
 
 ### My GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IliaPetrovPopov&layout=donut)](https://github.com/IliaPetrovPopov/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IliaPetrovPopov&layout=pie)](https://github.com/IliaPetrovPopov/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=IliaPetrovPopov&theme=transparent&border_radius=4,5)](https://git.io/streak-stats)
 
 <!--
