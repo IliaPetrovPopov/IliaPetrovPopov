@@ -1,7 +1,9 @@
 # Hi there, I am Ilia Popov 👋
 
 ### My GitHub Stats
-[(https://github-readme-stats.vercel.app/api/top-langs/?username=IliaPetrovPopov&layout=compact)](https://github.com/IliaPetrovPopov/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IliaPetrovPopov)](https://github.com/IliaPetrovPopov/github-readme-stats)
+
 
 <!--
 **IliaPetrovPopov/IliaPetrovPopov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
